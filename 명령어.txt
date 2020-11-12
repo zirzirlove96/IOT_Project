@@ -1,0 +1,4 @@
+아나콘다에서 activate jiyoung을 실행한 다음
+D:\project\object-detection-deep-learning 주소로 가서
+python dog_detection.py --prototxt MobileNetSSD_deploy.prototxt.txt --model MobileNetSSD_deploy.caffemodel
+명령어 실행
